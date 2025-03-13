@@ -20,6 +20,51 @@ I am currently pursuing my **Master's degree in Computer Science and Engineering
 
 ## 🛠️ Skills
 
+### **Generative AI**  
+- 🤖 **GPT Models**: OpenAI’s GPT models (e.g., GPT-4) for natural language generation and conversational agents.
+- 📝 **Text Generation**: Utilizing deep learning techniques to create coherent and contextually relevant text content.
+- 📊 **AI Model Fine-Tuning**: Fine-tuning pre-trained models for specific domains such as summarization, text completion, and sentiment analysis.
+- 🖼️ **Image Generation**: Experimenting with **DALL·E** and other generative models for image creation from text.
+  
+### **Python**  
+- 🐍 **Advanced Python Programming**: Expertise in libraries like **NumPy**, **Pandas**, **Matplotlib**, and **Scikit-learn** for data manipulation and machine learning.
+- 🤖 **Machine Learning & Deep Learning**: Applying libraries like **TensorFlow**, **Keras**, and **PyTorch** for developing and deploying machine learning models.
+- 📉 **Data Science**: Data cleaning, visualization, and building predictive models using **Python**.
+- 🌐 **Web Scraping**: Using **BeautifulSoup**, **Scrapy**, and **Selenium** to extract data from websites.
+  
+### **AI/ML Libraries and Frameworks**  
+- **TensorFlow**, **Keras**, **PyTorch** – Building AI models for classification, regression, and clustering.  
+- **Hugging Face Transformers** – Using pre-trained models for NLP tasks like text generation, summarization, and translation.  
+- **Scikit-learn** – Building and evaluating machine learning models such as decision trees, random forests, and support vector machines.  
+- **OpenAI GPT** – Leveraging **GPT-3**/**GPT-4** for natural language understanding and generation tasks.
+
+### **Programming Languages**  
+- **Python**, **Java**, **C++**, **JavaScript**, **SQL**, **PL/SQL**, **Bash**  
+- **HTML/CSS**, **React.js**, **Node.js** (for building interactive web applications)
+
+### **Cloud & DevOps Tools**  
+- ☁️ **AWS** (EC2, S3, Glue, Lambda, Athena, CloudWatch)  
+- 🐳 **Docker**, **Kubernetes**, **Jenkins** for continuous integration and deployment  
+- 📦 **Serverless Architectures** – Developing and deploying serverless applications using **AWS Lambda** and **API Gateway**
+
+### **Databases**  
+- 💾 **MySQL**, **PostgreSQL**, **SQL Server**, **MongoDB**, **Cassandra**, **CosmosDB**
+
+## 🚀 New Learnings in Generative AI & Python
+
+### **Generative AI**  
+My recent work focuses on leveraging **Generative AI** to create text, images, and even code. I have been experimenting with **transformer-based models** such as **GPT-3**, **GPT-4**, and **DALL·E** to generate creative content. I’ve applied these techniques to build intelligent chatbots, automated content generation systems, and image synthesis applications.
+
+- **Text Generation**: I’ve built **AI-driven content generation** tools using **GPT models** to automate content creation for blogs, summaries, and even code documentation.
+- **Image Generation**: I’ve explored **DALL·E** and similar models to create realistic images based on textual descriptions, enabling creative applications in art, advertising, and marketing.
+
+### **Python**  
+I’ve enhanced my Python skills to focus on both **AI/ML** and **data science**:
+- **Machine Learning**: I’ve built models for classification, regression, and clustering using **Scikit-learn**, and improved my proficiency in **deep learning** with **TensorFlow** and **Keras**.
+- **AI Libraries**: Familiarized myself with **Hugging Face Transformers** for NLP tasks, such as **text summarization**, **translation**, and **question answering**.
+- **Data Science**: Used **Pandas** for data manipulation, **Matplotlib** for visualizations, and **NumPy** for mathematical computations to gain insights from data.
+- **Web Scraping**: I’ve automated data extraction using **BeautifulSoup** and **Selenium** to gather datasets for various projects.
+
 **Programming Languages**:  
 💻 Java, Python, C, C++, JavaScript, SQL, PL/SQL, Bash
 
